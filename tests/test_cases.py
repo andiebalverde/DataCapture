@@ -18,7 +18,7 @@ def test_greater_big_set():
     capture.add(3)
     capture.add(4)
     capture.add(12)
-    capture.add(1000)
+    capture.add(998)
     capture.add(999)
     capture.add(872)
     capture.add(42)

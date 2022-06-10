@@ -39,5 +39,6 @@ o	Run particular test cases to validate each of the functions: less, greater or 
 	pytest test_cases.py::test_between_big_set
 
 
-Solution Description:
+Solution Description, Testing Approach:
 A description of the solution, with helper graphics and examples, is provided under the file Solution.docx
+Also, the tests design, execution and successful results are annexed to it.
